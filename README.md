@@ -2,7 +2,7 @@
 [![Netfly](https://camo.githubusercontent.com/58cf22ae41b8ef6b64efd6e38a9a3e0ee29fbead38f9bcbc5874f146966f6532/68747470733a2f2f6170692e6e65746c6966792e636f6d2f6170692f76312f6261646765732f30613531643065392d663631312d346464382d383837662d6663313838396536383534302f6465706c6f792d737461747573)](https://opensource.org/licenses/MIT)
 
 ## About This Project:
-#### React-crud-app is a Simple `crud` app build with React
+#### React-crud-app is a Simple `crud` app build with React, Hooks, json-server, React-Router@6, bootstrap@5
 
 ## Requirements
 * Node.js
@@ -26,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 #### `npm run build`
 Builds the app for production to the `build` folder.
 #### `Deployment`
-You can check the project Live From Here: 
+You can check the project Live From Here: https://crud-react-app-ittid.netlify.app/
 
 ## License
 Copyright 2022 Ahnaine Abdesamad
