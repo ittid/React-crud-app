@@ -6,6 +6,7 @@
 
 ## Requirements
 * Node.js
+* json-server (https://www.npmjs.com/package/json-server)
 
 
 ## Installation:
