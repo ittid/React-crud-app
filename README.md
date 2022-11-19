@@ -19,6 +19,7 @@
 * Go to `data-json` folder
 * run the server using npm `json-server --watch db.json --port 9000`
 * Open [http://localhost:9000](http://localhost:9000)
+* You need to run the server before the react project 
 
 Check the Resources and read the Documentation
 
